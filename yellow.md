@@ -13,7 +13,7 @@ beyellow: 1
 <div id="main-yellow">
     <div class="container">
         <div class="yellow-box-wrapper">
-            <div class="yellow-intro">Do you have troubles with <strong>TotalFinder</strong> on your computer?</div>
+            <div class="yellow-intro">Do you have troubles with <strong>TotalFinder</strong> on your Mac?</div>
 
             <div class="yellow-phone-box">
                 <div class="yellow-panic">Are you non-technical? Please don't panic!</div>
@@ -23,7 +23,7 @@ beyellow: 1
         
             <div class="yellow-desc">
                 <a href="http://be-yellow.com">Yellow People</a> do 24/7 phone support for me. They use TotalFinder themselves and will be probably able to help you.<br>
-                At least they can help you to <a href="http://totalfinder.binaryage.com/uninstallation">uninstall TotalFinder</a> and get back to your original unaltered Finder gracefully.<br>You may also <a href="mailto:antonin@binaryage.com">send me an email</a> so I can possibly look at the problem when I wake up.
+                At least they can help you to <a href="http://totalfinder.binaryage.com/uninstallation">uninstall TotalFinder</a> and get back to your original unaltered Finder gracefully.<br>You may also <a href="mailto:support@binaryage.com">send me an email</a> so I can possibly look at the problem when I wake up.
             </div>
         </div>
         <div class="yellow-other">
