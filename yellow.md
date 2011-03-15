@@ -2,28 +2,20 @@
 id: support-normal
 layout: default
 menu: support
-title: BinaryAge Phone Support
+title: BinaryAge Support
 meta_title: BinaryAge Support
 meta_keywords: blog,ideas,antonin hildebrand,binaryage,productivity,software,web,development,support
-meta_description: BinaryAge Phone Support
+meta_description: BinaryAge Support
 meta_image: http://www.binaryage.com/shared/img/icons/binaryage-badge-256.png
-beyellow: 1
 ---
 
 <div id="main-yellow">
     <div class="container">
         <div class="yellow-box-wrapper">
             <div class="yellow-intro">Do you have troubles with <strong>TotalFinder</strong> on your Mac?</div>
-
-            <div class="yellow-phone-box">
-                <div class="yellow-panic">Are you non-technical? Please don't panic!</div>
-        
-                <div class="yellow-phone">Call +1-855-5-BIN-AGE</div>
-            </div>
-        
             <div class="yellow-desc">
-                <a href="http://be-yellow.com">Yellow People</a> do 24/7 phone support for me. They use TotalFinder themselves and will be probably able to help you.<br>
-                At least they can help you to <a href="http://totalfinder.binaryage.com/uninstallation">uninstall TotalFinder</a> and get back to your original unaltered Finder gracefully.<br>You may also <a href="mailto:support@binaryage.com">send me an email</a> so I can possibly look at the problem when I wake up.
+                You should first <a href="http://getsatisfaction.com/binaryage">search the forums</a> and try to help yourself.<br>
+                You may also want to <a href="mailto:support@binaryage.com">send me an email</a> so I can possibly look at the problem when I wake up.
             </div>
         </div>
         <div class="yellow-other">
