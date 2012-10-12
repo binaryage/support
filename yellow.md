@@ -6,7 +6,7 @@ title: BinaryAge Support
 meta_title: BinaryAge Support
 meta_keywords: blog,ideas,antonin hildebrand,binaryage,productivity,software,web,development,support
 meta_description: BinaryAge Support
-meta_image: http://www.binaryage.com/shared/img/icons/binaryage-badge-256.png
+meta_image: http://www.binaryage.com/base/img/icons/binaryage-badge-256.png
 ---
 
 <div id="main-yellow">
