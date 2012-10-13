@@ -1,7 +1,7 @@
 ---
 url: http://support.binaryage.com
-layouts: base/layouts
+layouts: shared/layouts
 plugins: ../.jekyll-plugins
 stylus:
   compress: true
-  path: ./base/css/site.styl
+  path: ./shared/css/site.styl
